@@ -1,0 +1,312 @@
+Job_ID,Job_Title,Company_ID,Location,Detail_ID
+J1,Alyst/Sr. Alyst-Digital Product Alytics (SQL/Navisualization Tools),C1,"Gurgaon, Harya,India",D1
+J10,Associate Data Alyst,C7,"Hyderabad, Telangana,India ",D10
+J100,"Alyst, Master Data",C85,"Bengaluru, Kartaka,India",D71
+J101,Application Architect: AWS Cloud,C86,"Pune, Maharashtra,India",D72
+J102,Software Quality Senior Engineer,C87,"Bengaluru, Kartaka,India",D73
+J103,Data Alyst,C28,"Mumbai, Maharashtra,India",D13
+J104,Solutions Architect,C88,"Noida, Uttar Pradesh,India",D44
+J105,Alyst - Core Alytics - Power BI,C89,"Thane, Maharashtra,India",D43
+J106,Google Alytics,C90,"Bengaluru, Kartaka,India ",D74
+J107,Data Alyst,C91,"Ahmedabad, Gujarat,India",D75
+J108,Data Alyst,C92,"Bengaluru, Kartaka,India",D51
+J11,Business Alyst,C8,"Hyderabad, Telangana,India ",D10
+J110,Associate Data Alyst,C22,"Bengaluru, Kartaka,India",D40
+J112,Data Alyst,C95,"Mumbai, Maharashtra,India",D13
+J114,Content Intern,C97,"Gurugram, Harya,India",D79
+J115,Content Writer Intern,C98,"Delhi,India",D80
+J116,Content Writer,C99,"Gurgaon, Harya,India",D81
+J117,SEO Content Writer Intern,C100,"New Delhi, Delhi,India",D82
+J118,Digital marketing,C101,"Delhi,India",D83
+J119,Digital Marketing Intern,C102,"Navi Mumbai, Maharashtra,India",D84
+J12,Growth Alyst,C9,"Pune, Maharashtra,India",D11
+J120,Student,C103,"New Delhi, Delhi,India",D85
+J121,Content Writer,C104,"Gurugram, Harya,India",D58
+J122,Recruitment fresher,C105,"Maharashtra,India",D72
+J123,Junior Marketing Mager,C106,"Delhi,India",D86
+J124,Social Media Marketing Intern,C107,"Gurugram, Harya,India",D87
+J125,Content Writer,C108,"New Delhi, Delhi,India",D88
+J126,Content Writer Intern,C109,India,D89
+J127,Paid Training + Free Project & Internship,C110,India,D90
+J128,Content Writer,C111,"Delhi,India",D91
+J129,Human Resources Intern,C107,"Delhi,India",D92
+J13,"Alyst, Inventory Optimization",C10,"Gurgaon, Harya,India",D12
+J130,Communications Assistant,C112,"South Delhi, Delhi,India",D93
+J131,Student,C113,"Gurugram, Harya,India",D94
+J132,Social Media Magement Intern,C114,"Mumbai, Maharashtra,India",D95
+J133,Operations Internship in Gurgaon at Vplak,C115,"Gurgaon, Harya,India",D96
+J134,Digital marketing,C116,"Preet Navihar, Delhi,India",D97
+J135,Paid Certificate & Guarantee Internship,C110,India,D98
+J136,IT Business Development Executive (Intern/Fresher) - 3 Openings Ahmedabad,C117,Greater Ahmedabad Area,D99
+J137,Content Writer,C118,"Noida, Uttar Pradesh,India",D90
+J138,Intern,C119,"Delhi,India",D100
+J139,Human Resources Intern,C120,"Delhi,India",D101
+J14,Alyst-Data Science,C1,"Gurgaon, Harya,India",D13
+J140,Business Development,C121,"Delhi,India",D102
+J141,Navirtual Assistant,C122,"Delhi,India",D100
+J142,Digital Marketing Intern,C123,"Noida, Uttar Pradesh,India",D103
+J143,Digital Marketing Internship,C124,"Uppal, Telangana,India",D104
+J144,Social Media Expert,C125,"Noida, Uttar Pradesh,India",D84
+J145,Fresher,C126,Greater Delhi Area,D104
+J146,Internet Content Mager,C127,India,D105
+J147,Content Writer,C128,"Delhi,India",D106
+J148,Digital marketing intern,C129,India,D107
+J149,Recruitment,C130,"Agra, Uttar Pradesh,India",D108
+J150,Content Writer,C131,"New Delhi, Delhi,India",D109
+J151,Content Writer,C132,"Gurugram, Harya,India",D110
+J152,Content Writer,C133,"Kolkata, West Bengal,India",D111
+J153,Search Engine Optimization Executive,C134,"Noida, Uttar Pradesh,India",D112
+J154,Associate,C135,"Noida, Uttar Pradesh,India",D113
+J155,Social Media Marketing Intern,C136,"New Delhi, Delhi,India",D114
+J156,Digital Marketing Intern,C137,India,D115
+J157,Human Resources Intern,C138,"Delhi,India",D100
+J158,Student,C103,"Pune, Maharashtra,India",D116
+J159,Employee,C139,"New Delhi, Delhi,India",D111
+J160,Fresher,C140,Greater Delhi Area,D117
+J161,Human Resources Intern,C129,"Delhi,India",D115
+J162,Fundraiser Internship,C141,"Delhi,India",D115
+J163,Digital Marketing Intern,C142,India,D118
+J164,Fresher,C126,"New Delhi, Delhi,India",D119
+J165,Student,C103,"Noida, Uttar Pradesh,India",D116
+J166,Students and freshers,C143,"Delhi,India",D117
+J167,Volunteer,C144,"Delhi,India",D120
+J168,Technical content writer,C145,"Noida, Uttar Pradesh,India",D104
+J169,Sales And Marketing Intern,C129,India,D121
+J170,Assistant Mager,C146,"Noida, Uttar Pradesh,India",D122
+J171,Content Writer,C147,"Noida, Uttar Pradesh,India",D123
+J172,Freelance,C148,India,D124
+J173,B.com/ Bca Student,C149,"New Delhi, Delhi,India",D125
+J174,Social Media Content Writer,C150,"Gurugram, Harya,India",D126
+J175,Sales Mager,C151,"Delhi,India",D56
+J176,Marketing Intern,C152,"Ahmedabad, Gujarat,India",D127
+J177,Listener or Freelancer,C148,India,D128
+J178,Online work for freshers,C153,India,D129
+J179,Operation internship,C154,India,D130
+J180,Process Associate - Content Moderation - Marathi + English-HIG010759,C155,"Hyderabad, Telangana,India",D100
+J181,Influencer Marketing Intern,C156,"Guwahati, Assam,India",D114
+J182,Listener/Freelancer,C148,India,D131
+J183,Associate,C157,"Gurugram, Harya,India",D132
+J184,Trainee Marketing Automation Executive,C158,"Noida, Uttar Pradesh,India",D133
+J185,Student,C159,"New Delhi, Delhi,India",D134
+J186,Freshers / Graduates (Off Campus - BE / B.Tech - 2022 Passouts),C160,"Bengaluru, Kartaka,India",D135
+J187,Business Development Intern,C161,"Gurugram, Harya,India",D136
+J188,Student,C159,"New Delhi, Delhi,India",D137
+J189,Business Development Executive,C162,"Gurugram, Harya,India",D104
+J19,Alyst - Reporting,C14,"Bengaluru, Kartaka,India",D18
+J190,Content and Research marketing Internship,C163,India,D138
+J191,Freshers,C164,"New Delhi, Delhi,India",D85
+J192,Social Media Marketing Internship in Multiple locations at PeakPals,C165,"Delhi, Delhi,India",D139
+J193,Digital Marketing Internship in Delhi at Yokins Instruments Private Limited,C166,"Delhi, Delhi,India",D140
+J194,Social Media Marketing part time job/internship at Delhi in Kapable.club,C167,"Delhi, Delhi,India",D141
+J195,Fince Intern,C168,India,D115
+J196,Social Media Marketing Internship in Noida at Wildlife Trust OfIndia,C169,"Noida, Uttar Pradesh,India",D142
+J197,Content/Copy writer internship,C170,India,D143
+J198,Social Media Marketing Internship in Gurgaon at TrillerIndia,C171,"Gurgaon, Harya,India",D140
+J199,Email Marketing Specialist,C172,"New Delhi, Delhi,India",D144
+J20,Data Alyst,C15,"Bengaluru, Kartaka,India",D19
+J200,Digital and Social Marketing Internship,C173,"Mumbai, Maharashtra,India",D81
+J201,Customer Support Executive,C174,"Ghaziabad, Uttar Pradesh,India",D145
+J202,HR intern,C175,India,D144
+J203,Assistant,C176,"Kutch district, Gujarat,India",D85
+J204,Corporate Acquisition Intern,C177,India,D115
+J205,Project Expert,C178,"Delhi,India",D146
+J206,Fince and Marketing Intern,C168,India,D26
+J207,Data Entry Specialist,C179,"Lucknow, Uttar Pradesh,India",D73
+J208,Intership,C180,India,D147
+J209,Human Resources Intern,C181,"Preet Navihar, Delhi,India",D148
+J210,"Associate, RES",C182,"Gurgaon, Harya,India",D149
+J211,Teaching Assistant,C183,"Raipur, Chhattisgarh,India",D150
+J212,Copywriter Intern,C184,India,D115
+J213,Freshers and students,C185,"New Delhi, Delhi,India",D151
+J214,Student,C185,"New Delhi, Delhi,India",D152
+J215,Fince Intern,C137,India,D153
+J216,Marketing And Business Development Intern,C186,India,D85
+J217,Assistant,C187,"Shimla, Himachal Pradesh,India",D154
+J218,Digital Marketing Intern (Fil year students only),C188,India,D155
+J219,Career Counselor,C189,"New Delhi, Delhi,India",D156
+J220,Intern,C190,India,D122
+J221,Fince Intern,C191,India,D140
+J222,Digital marketing fresher,C192,"Pune, Maharashtra,India",D114
+J223,Travel sales Consultant,C193,"Delhi,India",D15
+J224,Relationship Officer,C194,"New Delhi, Delhi,India",D72
+J225,Student,C195,"Delhi,India",D158
+J226,Human Resources Intern,C196,"Noida, Uttar Pradesh,India",D73
+J227,Student,C103,"Lucknow, Uttar Pradesh,India",D85
+J228,Business Development Executive,C197,"New Delhi, Delhi,India",D85
+J229,Copywriter,C198,"Gurugram, Harya,India",D85
+J230,"Market research, social media and content Writer",C199,India,D159
+J231,Web Development Intern,C200,"Hyderabad, Telangana,India",D115
+J232,Recruiter,C201,India,D85
+J233,Software Engineer,C202,"Pune, Maharashtra,India",D58
+J234,Software Engineer,C203,"Pune, Maharashtra,India",D13
+J235,Software Developer,C204,"Noida, Uttar Pradesh,India",D13
+J236,Tech Software Engineer in Test,C38,"Pune, Maharashtra,India",D160
+J237,Software Engineer,C205,"Pune, Maharashtra,India",D13
+J238,Software Engineer/Wealth & Persol Banking IT,C202,"Pune, Maharashtra,India",D85
+J239,"Junior Associate, Solution Engineering",C206,"Pune, Maharashtra,India",D161
+J24,Data Alyst - Operatiol Excellence,C18,"Bengaluru, Kartaka,India",D23
+J240,SCM Engineer,C207,"Pune, Maharashtra,India",D162
+J241,.Net Developer,C208,"Pune, Maharashtra,India",D163
+J242,Java Developer,C209,"Pune, Maharashtra,India",D40
+J243,Application Alyst,C210,"Pune, Maharashtra,India",D164
+J244,Software Developer,C211,"Pune, Maharashtra,India",D165
+J245,Developer,C157,"Pune, Maharashtra,India",D166
+J246,Software Developer,C211,"Pune, Maharashtra,India",D167
+J247,SmartServ - Frontend Developer - Javascript,C212,"Pune, Maharashtra,India",D168
+J248,Software Engr II,C43,"Pune, Maharashtra,India",D169
+J249,Developer,C157,"Pune, Maharashtra,India",D170
+J25,Associate Alyst-Quality BI,C19,"Pune, Maharashtra,India",D24
+J250,Engineer - CiNavil Structural,C208,"Vadodara, Gujarat,India",D171
+J251,Engineer - CiNavil Structural,C208,"Vadodara, Gujarat,India",D172
+J252,Software Engineer - SerNavice Now Developer - SerNavice Portal,C203,"Pune, Maharashtra,India",D173
+J253,"Associate, Solution Engineering",C206,"Pune, Maharashtra,India",D161
+J254,Python Developer,C213,"Ahmedabad, Gujarat,India",D13
+J255,"Junior Associate, Technology Operations (SerNaviceNow Developer)",C206,"Pune, Maharashtra,India",D174
+J256,Windows+MAC OS Technical Support Alyst,C214,"Pune, Maharashtra,India",D166
+J257,Software Engineer 2,C87,"Pune, Maharashtra,India",D175
+J258,"Alyst, Integration Quality",C215,"Pune, Maharashtra,India",D176
+J259,Senior Specialist - Software Engineering,C216,"Pune, Maharashtra,India",D177
+J26,Tableau Data Platform Engineer,C2,"Gurgaon, Harya,India",D25
+J260,"Software Engineer, II",C217,"Pune, Maharashtra,India",D178
+J261,Senior Software Engineer,C218,"Pune, Maharashtra,India",D179
+J262,Software Engineer - Testing,C219,"Hyderabad, Telangana,India",D180
+J263,"Embedded Software Engineer (C++, QT)",C220,"Pune, Maharashtra,India",D181
+J264,Junior Architect & Junior Engineer,C221,"msai, Aruchal Pradesh,India",D15
+J265,Junior Software Engineers Bangalore Office Job,C222,"Bengaluru, Kartaka,India",D182
+J266,Software Engineer - Testing,C219,"Hyderabad, Telangana,India",D183
+J267,Senior Executive_Engineer_Linux_Pune,C6,"Pune, Maharashtra,India",D184
+J268,Software Developer- Data & Alytics,C223,"Pune, Maharashtra,India",D185
+J269,Structural Engineer l,C224,"Mumbai, Maharashtra,India",D186
+J27,Junior Alytics Engineer - Associate 2,C20,"Mumbai, Maharashtra,India ",D26
+J270,Software Engineer 2,C8,"Hyderabad, Telangana,India",D187
+J271,Software Engineer 2,C8,"Bengaluru, Kartaka,India",D188
+J272,Software Engineer 2,C8,"Hyderabad, Telangana,India",D13
+J273,Technical Support Engineering M4,C8,"Hyderabad, Telangana,India",D189
+J274,Software Engineer 2,C8,"Delhi, Delhi,India",D190
+J275,Support Engineer Internship Opportunity for University Graduate,C8,"Daman and Diu,India",D191
+J276,Support Engineer Internship Opportunity for University Graduate,C8,"Delhi, Delhi,India",D192
+J277,SAP MM Ha Consultant,C225,"Delhi, Delhi,India",D193
+J278,SAP MM Ha Consultant,C225,"Mumbai, Maharashtra,India",D194
+J279,Package Consultant – SAP SD VC,C225,"Mumbai, Maharashtra,India",D28
+J28,Data Alyst ,C21,Greater Kolkata Area,D27
+J280,Package Consultant –SAP SD VC,C225,"Delhi, Delhi,India",D37
+J281,CAO Control Programs- Associate,C226,"Mumbai, Maharashtra,India",D58
+J282,Infrastructure Development,C226,"Hyderabad, Telangana,India",D195
+J283,Quality Assurance_Disclosure of Interest,C226,"Hyderabad, Telangana,India",D196
+J284,Talent Acquisition Lead,C227,"Bengaluru North, Kartaka,India",D197
+J285,Lead - Talent Acquisition,C228,"Bengaluru, Kartaka,India",D40
+J288,Infrastructure Architect,C231,"Bengaluru, Kartaka,India ",D200
+J289,Site Reliability Engineer 3,C232,"Bengaluru, Kartaka,India ",D201
+J29,Associate Business Alyst,C22,"Bengaluru, Kartaka,India",D28
+J290,Test Alyst (Retail Banking),C233,"Bengaluru, Kartaka,India ",D202
+J291,Team Lead,C234,"Bengaluru, Kartaka,India ",D203
+J292,Principal Software Engineer,C235,"Bengaluru, Kartaka,India ",D204
+J293,Senior Site Reliability Engineer,C236,"Bengaluru, Kartaka,India ",D205
+J294,Technical Architect,C237,"Bengaluru, Kartaka,India ",D206
+J295,Senior Database Solutions Architect,C238,"Bengaluru, Kartaka,India ",D55
+J296,Full Stack Developer,C239,"Bengaluru, Kartaka,India ",D207
+J297,Quality Magement Representative,C240,"Dodballapura, Kartaka,India",D160
+J298,Technical system Adminstrator,C241,"Bengaluru, Kartaka,India ",D208
+J299,Alytics Engineer,C242,"Bengaluru, Kartaka,India ",D209
+J300,Database Administrator,C243,"Bengaluru, Kartaka,India ",D210
+J301,Admissions Counselor,C244,"Bengaluru, Kartaka,India ",D211
+J303,MIM (Major Incident Magement),C246,"Bengaluru, Kartaka,India ",D10
+J304,Mechanical Drafter,C247,"Bengaluru, Kartaka,India ",D213
+J305,Hardware Design Engineer,C248,"Bengaluru, Kartaka,India ",D214
+J307,Maintence Executive,C250,"Bengaluru, Kartaka,India ",D10
+J308,Senior Engineer,C251,"Bengaluru, Kartaka,India ",D216
+J309,EDA Tool Developer,C86,"Bengaluru, Kartaka,India ",D217
+J31,Senior Alyst,C24,"Pune, Maharashtra,India",D18
+J310,High Power Electronics Integration Senior Mager,C252,"Bengaluru, Kartaka,India ",D218
+J311,Staff Software Engineer,C253,"Bengaluru, Kartaka,India ",D219
+J315,Solution Architect,C257,"Bengaluru, Kartaka,India ",D222
+J316,Lean Product Owner,C258,"Bengaluru, Kartaka,India ",D213
+J317,SDN Cloud Consultant / Architect,C66,"Bengaluru, Kartaka,India ",D223
+J318,Mager - Piping,C259,"Bengaluru, Kartaka,India ",D224
+J319,Safety Case Coorditor,C260,"Bengaluru, Kartaka,India ",D220
+J32,Senior Data Alyst,C25,"Bengaluru, Kartaka,India",D29
+J321,CNC Manufacturing Design Engineer,C262,"Bengaluru, Kartaka,India ",D40
+J322,Content Creator,C263,"Bengaluru, Kartaka,India ",D226
+J323,Interior Designer,C264,"Bengaluru, Kartaka,India ",D40
+J324,Principal Software Engineer,C235,"Bengaluru, Kartaka,India ",D204
+J325,Procurement Specialist,C265,"Bengaluru, Kartaka,India ",D40
+J326,"SoC Physical Design Engineer, Google Cloud",C266,"Bengaluru, Kartaka,India ",D227
+J327,Test Alyst (Cards & Payments),C233,"Chennai, Tamil nadu,India ",D228
+J33,Data Alyst,C26,"Bengaluru, Kartaka,India",D30
+J333,Lead System Engineer - Windows,C271,"Chennai, Tamil nadu,India ",D234
+J334,Hiring Interns across functions,C272,"Chennai, Tamil nadu,India ",D235
+J335,Network Engineer,C273,"Chennai, Tamil nadu,India ",D236
+J336,Part Time LIC-AGENCY ,C274,"Chennai, Tamil nadu,India ",D129
+J337,Operations And ERP Consulting,C275,"Chennai, Tamil nadu,India ",D237
+J338,Summer Internship - Sales,C276,"Chennai, Tamil nadu,India ",D238
+J339,Capital Market (Fince) ,C277,"Chennai, Tamil nadu,India ",D239
+J34,Data Alyst,C27,"Bengaluru, Kartaka,India",D31
+J340,Ops Support Assistant,C56,"Chennai, Tamil nadu,India ",D240
+J341,Assistant Fince Controller,C278,"Chennai, Tamil nadu,India ",D241
+J342,COBOL Developer,C279,"Chennai, Tamil nadu,India ",D242
+J343,Data Entry Operator,C280,"Chennai, Tamil nadu,India ",D243
+J348,Application Database Administrator: RDBMS,C86,"Chennai, Tamil nadu,India ",D37
+J35,Senior Alyst,C28,"Bengaluru, Kartaka,India",D32
+J351,Project Mager,C24,"Chennai, Tamil nadu,India ",D249
+J352,Database Administrator,C60,"Chennai, Tamil nadu,India ",D250
+J353,3D Designer,C287,"Chennai, Tamil nadu,India ",D251
+J38,PRODUCT PRICING ALYST I,C25,"Bengaluru, Kartaka,India",D35
+J39,Growth Alyst,C9,"Bengaluru, Kartaka,India",D34
+J40,Business Alyst,C22,"Bengaluru, Kartaka,India",D37
+J41,Alyst,C24,"Pune, Maharashtra,India",D18
+J43,MI Alyst,C1,"Gurgaon, Harya,India",D39
+J44,Data Alyst (Temporary Full Time),C31,"Hyderabad, Telangana,India",D40
+J47,Business Insights Alyst (Waymo),C34,"Gurgaon, Harya,India",D43
+J48,Alyst/Data Alytics,C35,"Hyderabad, Telangana,India",D13
+J49,SC Master Data Alyst,C36,"Gurgaon, Harya,India",D44
+J50,Senior Engineer - Production,C37,"Tiruvallur, Tamil du,India",D45
+J51,Data Alyst,C38,"Mumbai, Maharashtra,India ",D46
+J52,Business Alyst,C39,"Mumbai, Maharashtra,India ",D40
+J53,Data Alyst - II,C40,"Delhi, Delhi,India",D13
+J54,Data Governce Lead,C41,"Bengaluru, Kartaka,India",D47
+J55,Data Alyst,C42,"Surat, Gujarat,India",D40
+J56,Advanced Data Engineer,C43,"Bengaluru, Kartaka,India",D6
+J57,Business Alyst,C44,"Jaipur, Rajasthan,India",D30
+J58,Business Alyst,C45,"Bangalore Urban, Kartaka,India",D10
+J59,People Data Alyst,C46,"Bengaluru, Kartaka,India",D13
+J6,Alyst,C5,"Hyderabad, Telangana,India ",D6
+J60,Excel Forecasting,C47,"Noida, Uttar Pradesh,India",D30
+J61,Data Alyst | WFH,C21,Greater Kolkata Area,D48
+J62,Business Alyst,C48,"Pune, Maharashtra,India",D13
+J63,Project Engineer,C49,"Gurgaon, Harya,India",D30
+J64,Data Alyst,C50,"Bangalore Urban, Kartaka,India",D49
+J65,Mager- Process Engineering,C51,"nagpur, Maharashtra,India",D50
+J66,Industrial Engineer,C52,"Chennai, Tamil nadu,India ",D51
+J67,Data Alyst,C53,"Noida, Uttar Pradesh,India",D13
+J68,Data Alyst,C11,"Noida, Uttar Pradesh,India",D13
+J69,Planning - Business Alyst,C54,"Mumbai, Maharashtra,India ",D10
+J7,Alyst,C5,"Hyderabad, Telangana,India ",D7
+J70,Data Alyst - 08,C55,"Pune, Maharashtra,India",D40
+J71,Business Alytics Alyst,C56,"Pune, Maharashtra,India",D40
+J72,Data Alyst,C57,"Gurgaon, Harya,India",D52
+J73,Data Scientist-1,C58,"Gurgaon, Harya,India",D53
+J74,"Data Alyst, 2",C59,"Bengaluru, Kartaka,India",D54
+J75,P1-Lead Alyst - BI and Alytics_COA,C60,"Gurgaon, Harya,India",D55
+J76,"Alyst, Data Magement & Quantitative Alysis",C61,"Pune, Maharashtra,India",D56
+J77,Item Data Alyst,C62,"Bengaluru, Kartaka,India",D13
+J78,Associate Data Alyst,C63,"Bengaluru, Kartaka,India ",D40
+J79,Business Alyst (Alytics),C64,"Mumbai, Maharashtra,India",D30
+J8,Tableau Data Platform Engineer,C2,"Pune, Maharashtra,India",D8
+J80,Data Mager,C65,India ,D10
+J81,SDN Cloud Consultant / Architect,C66,"Bengaluru, Kartaka,India",D57
+J82,Manufacturing Operations Mager,C67,"Bengaluru, Kartaka,India",D40
+J83,"Alyst, Data Science & Alytics",C68,"Pune, Maharashtra,India",D40
+J84,Business Alyst,C69,"Bengaluru, Kartaka,India ",D40
+J85,"Alyst, SerNavices Business Intelligence",C70,"Gurgaon, Harya,India",D58
+J86,Data Science Mager/Senior Mager,C71,"Hyderabad, Telangana,India",D59
+J87,"Alyst/Associate, Developer Alytics & Data Science, (Sql/Python/Tableau) Global Trading",C72,"Gurgaon, Harya,India",D60
+J88,Business Alyst,C73,"Bangalore Urban, Kartaka,India",D61
+J89,Learning Operations - Alyst,C74,"Hyderabad, Telangana,India",D62
+J9,Alyst,C6,"Bengaluru, Kartaka,India",D9
+J90,Engineering Mager,C75,India ,D30
+J91,Site Process Engineer,C76,"Chennai, Tamil nadu,India ",D63
+J92,"Associate Content Specialist, ESG Data Solutions",C77,"Hyderabad, Telangana,India",D64
+J93,Business Alyst,C78,"Bangalore Urban district, Kartaka,India",D65
+J94,Software Engnieer-Data Engineer,C79,"Bengaluru, Kartaka,India Hybrid",D66
+J98,Automation Test Engineer [T500-4723],C83,"Gurugram, Harya,India",D69
+J99,Experienced Data Engineer,C84,"Bengaluru, Kartaka,India",D70

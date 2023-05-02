@@ -1,0 +1,285 @@
+CompanyID,Company_Name,Industry,Employee_Count,LinkedIn_Followers,Clustering,Class
+C1,American Express  ,Fincial Services ,10001,1701642,0,Class-1
+C2,Accenture in India,Information Technology & Services,10001,1399337,0,Class-1
+C3,Colgate-Palmolive,Consumer Goods,10001,1975214,0,Class-1
+C4,Advance Auto Parts,Retail,10001,101668,0,Class-1
+C5,Novartis India,Pharmaceuticals  ,10001,111727,0,Class-1
+C6,_VOIS,Information Technology & Services,10001,84023,0,Class-1
+C7,"Neustar, Inc. ",Information Technology & Services,5000,67636,0,Class-1
+C8,Microsoft,Computer Software,10001,17774440,1,Class-2
+C9,Turing.com,Information Technology & Services,5000,127941,0,Class-1
+C10,Stryker,Medical Device,10001,981227,0,Class-1
+C11,Optum,Hospital & Health Care ,10001,516149,0,Class-1
+C12,Micron Technology ,Semiconductors,10001,444167,0,Class-1
+C13,Bank of America ,Banking ,10001,2258970,2,Class-3
+C14,dentsu intertiol,Marketing & Advertising ,10001,647910,0,Class-1
+C15,ANZ,Banking ,10001,558346,0,Class-1
+C16,Giant Eagle GCC,Information Technology & Services,200,2154,0,Class-1
+C17,UST,Information Technology & Services,10001,660827,0,Class-1
+C18,Shell ,Oil & Energy ,10001,5922917,2,Class-3
+C19,Eaton  ,Electrical & Electronic Manufacturing ,10001,1242164,0,Class-1
+C20,State Street,Fincial Services ,10001,435909,0,Class-1
+C21,Michael Page,Staffing & Recruiting,10000,3007322,2,Class-3
+C22,Novo Nordisk,Pharmaceuticals  ,10001,1302821,0,Class-1
+C23,"Mettler-Toledo Intertiol, Inc",Electrical & Electronic Manufacturing,10001,108836,0,Class-1
+C24,Barclays,Fincial Services ,10001,1251058,0,Class-1
+C25,TE Connectivity,Electrical & Electronic Manufacturing,10001,442595,0,Class-1
+C26,Gameskraft,Computer Games,1000,21553,0,Class-1
+C27,Edu Angels India Private Limited,Consumer Services ,200,32,0,Class-1
+C28,Hotstar,Computer Software ,1000,719232,0,Class-1
+C29,Moody's Corporation,Fincial Services ,10001,142128,0,Class-1
+C30,Chubb,Insurance ,10001,615145,0,Class-1
+C31,Electronic Arts (EA),Computer Games,10001,1075143,0,Class-1
+C32,Jaguar Land Rover India,Automotive  ,500,102725,0,Class-1
+C33,Viasat Inc. ,Telecommunications,5001,90749,0,Class-1
+C34,TaskUs ,Outsourcing/Offshoring,10001,139474,0,Class-1
+C35,D. E. Shaw India Private Limited,Fincial Services,1000,72352,0,Class-1
+C36,Medtronic,Medical Device  ,10001,1417673,0,Class-1
+C37,BorgWarner,Automotive  ,10001,266728,0,Class-1
+C38,UBS,Fincial Services,10001,1205434,0,Class-1
+C39,TechSevin Solution LLP,Information Technology & Services,200,2095,0,Class-1
+C40,Chegg India,E-learning,1000,54333,0,Class-1
+C41,Dover India,Machinery  ,1000,53466,0,Class-1
+C42,AFIV DATA OUTSOURCING,Information Technology & Services,50,14591,0,Class-1
+C43,Honeywell,Electrical & Electronic Manufacturing,10001,2221925,2,Class-3
+C44,E Connect Solutions Pvt. Ltd,Information Technology & Services,1000,4438,0,Class-1
+C45,vi,Fincial Services,1000,163249,0,Class-1
+C46,AVEVA ,Computer Software,5000,220860,0,Class-1
+C47,WNS,Outsourcing/Offshoring,10001,499613,0,Class-1
+C48,Simplify Healthcare,Information Technology & Services,1000,62475,0,Class-1
+C49,Taurus Contractors Pvt Ltd ,Oil & Energy,50,28308,0,Class-1
+C50,LKQ Corporation,Automotive  ,10001,43182,0,Class-1
+C51,Mahindra Group,Executive Office,10001,998435,0,Class-1
+C52,Ford Motor Company,Automotive  ,10001,3645053,2,Class-3
+C53,Iris Software Inc,Information Technology & Services,5000,230574,0,Class-1
+C54,Zepto ,Computer Software,200,94160,0,Class-1
+C55,Michelin ,Automotive  ,10001,616381,0,Class-1
+C56,Citi,Fincial Services,10001,3813311,2,Class-3
+C57,Moody's Corporation ,Fincial Services,10001,142187,0,Class-1
+C58,Mastercard,Information Technology & Services,10001,1096069,0,Class-1
+C59,Bread Fincial ,Fincial Services,10000,69790,0,Class-1
+C60,R1 RCM ,Hospital & Health Care,10001,98792,0,Class-1
+C61,BNY Mellon,Fincial Services,10001,444685,0,Class-1
+C62,Target,Retail  ,10001,1557165,0,Class-1
+C63,Levi Strauss & Co,Apparel & Fashion,10001,601539,0,Class-1
+C64,yara Energy ,Oil & Energy,5000,189323,0,Class-1
+C65,Clario ,Computer Software,10000,39755,0,Class-1
+C66,Juniper Networks,Computer Software,10000,630166,0,Class-1
+C67,Charcoal.linkedIn, Consumer Electronics,10,14647,0,Class-1
+C68,TransUnion ,Information Technology & Services,10000,277661,0,Class-1
+C69,Saveo.in,"Health, Wellness & Fitness",200,44879,0,Class-1
+C70,Cie,Telecommunications  ,10000,171020,0,Class-1
+C71,Merilytics,Magement Consulting,500,42957,0,Class-1
+C72,BlackRock ,Fincial Services,10001,1160704,0,Class-1
+C73,Embibe ,E-learning,1000,65732,0,Class-1
+C74,Deloitte ,Magement Consulting,10001,10651643,1,Class-2
+C75,Pocket FM,Internet  ,500,89972,0,Class-1
+C76,Momentive,Chemicals  ,10000,65651,0,Class-1
+C77,FactSet ,Information Technology & Services,10001,169685,0,Class-1
+C78,Lenovo,Information Technology & Services,10001,831255,0,Class-1
+C79,Societe Generale Global Solution Centre,Information Technology & Services,10000,224654,0,Class-1
+C80,Promaynov Advisory Services Pvt. Ltd ,Human Resources,50,2292,0,Class-1
+C81,Tata Group, Executive Office,10001,1816083,0,Class-1
+C82,edamama,Retail  ,200,3288,0,Class-1
+C83,Talent500,Human Resources,200,76573,0,Class-1
+C84,Boeing,Aviation & Aerospace,10001,2777840,2,Class-3
+C85,Molex,Electrical & Electronic Manufacturing,10001,151954,0,Class-1
+C86,IBM ,Information Technology & Services,10001,14405435,1,Class-2
+C87,Dell Technologies,Information Technology & Services,10001,4170257,2,Class-3
+C88,IDEMIA ,Information Technology & Services,10001,480426,0,Class-1
+C89,Randstad India,Human Resources,5000,382650,0,Class-1
+C90,Quess IT Staffing ,Staffing & Recruiting,10001,242803,0,Class-1
+C91,Merito.in,Staffing & Recruiting,10,7486,0,Class-1
+C92,Bayer ,Chemicals  ,10001,4509594,2,Class-3
+C93,Ubiquity ,Outsourcing/Offshoring,10000,65866,0,Class-1
+C94,YouGov ,Market Research,5000,333491,0,Class-1
+C95,Media.net ,Internet  ,5000,227081,0,Class-1
+C96,NCR Corporation ,Information Technology & Services,10001,409137,0,Class-1
+C97,ARM Worldwide,Advertising Services,226,13671,0,Class-1
+C98,Kraft-Obench - WFH Pods | Home Offices | Sound Insulated Work Pods,Furniture and Home Furnishings Manufacturing,7,2110,0,Class-1
+C99,T and T Realty Services Private Limited,Real Estate,44,3648,0,Class-1
+C100,SkyTrust IT Solutions,Advertising Services,10,946,0,Class-1
+C101,Bizgurukul,Advertising Services,2467,39172,0,Class-1
+C102,Valves Only,Industrial Machinery Manufacturing,2,2668,0,Class-1
+C103,The Golden Rise,Wellness and Fitness Services,32,11317,0,Class-1
+C104,Supergrad,"echnology, Information and Internet",14,1146,0,Class-1
+C105,Student Inc.,Education Administration Programs,110,13694,0,Class-1
+C106,Crepdog Crew,Retail Apparel and Fashion,19,2469,0,Class-1
+C107,RecruitNXT,IT Services and IT Consulting,239,26396,0,Class-1
+C108,Phixman,"Technology, Information and Internet",29,2812,0,Class-1
+C109,Instamedz,Wellness and Fitness Services,13,3461,0,Class-1
+C110,Coincent.ai,E-Learning Providers,84,10426,0,Class-1
+C111,Vivaci Luxury Pvt. Ltd.,Advertising Services,5,2055,0,Class-1
+C112,VRAKSH,Events Services,1,1171,0,Class-1
+C113,EntreLeadership,Business Consulting and Services,50,34034,0,Class-1
+C114,4WD Gaming,Public Relations and Marketing Agency,5,13,0,Class-1
+C115,VPLAK,Computers and Electronics Manufacturing,15,1172,0,Class-1
+C116,Achievers Club (Digital network Marketing),Advertising Services,2,745,0,Class-1
+C117,Codage Habitation,Information Services ,50,17,0,Class-1
+C118,Spell Web InfoTech,IT Services and IT Consulting,22,615,0,Class-1
+C119,Aarka Sports Magement Pvt. Ltd.,Sports,50,132,0,Class-1
+C120,MARS Exploration Pvt Ltd,Aviation & Aerospace,50,529,0,Class-1
+C121,Teamwork Communications Group,Public Relations & Communications,200,56,0,Class-1
+C122,Growup Outsourcing,Outsourcing/Offshoring,200,6,0,Class-1
+C123,7 STAR MEDTECH PVT. LTD.,Marketing & Advertising,50,9,0,Class-1
+C124,KBK Business Solutions,Information Technology & Services,200,25,0,Class-1
+C125,StartupFlux,Information Technology & Services ,50,23,0,Class-1
+C126,"""Work From Home""",Human Resources Services,5,2073841,0,Class-1
+C127,Tax Advisory,Legal Services ,10,3,0,Class-1
+C128,Digiwebcore,Information Technology & Services,0,1339,0,Class-1
+C129,ILP Overseas | Intertiol Learning Planners,Education Magement,5000,708,0,Class-1
+C130,Work From Home Opportunity,E-learning,200,3018,0,Class-1
+C131,Flash Me Right,Information Technology & Services,10,7,0,Class-1
+C132,PR Professiols,Public Relations & Communications ,200,56,0,Class-1
+C133,Collegedunia,Information Technology & Services,1000,1444,0,Class-1
+C134,Flexsin,Information Technology & Services,500,401,0,Class-1
+C135,KnowledgeWorks Global Ltd.,Book and Periodical Publishing,1038,3039,0,Class-1
+C136,WhizCo,Online Media,200,133,0,Class-1
+C137,Corizo,E-learning,200,136,0,Class-1
+C138,Team4progress technologies,Information Technology & Services,120,25,0,Class-1
+C139,ONLINE WORK FROM HOME,Human Resources Services,5,2073928,0,Class-1
+C140,Work From Home/ Fresher & Experience Jobs,Human Resources Services,1274,229016,0,Class-1
+C141,Mantra Care,Hospital & Health Care ,500,76,0,Class-1
+C142,Lernx,E-learning,200,262,0,Class-1
+C143,WORK FROM HOME/DIGITAL OPPORTUNITY,Human Resources Services,1274,229016,0,Class-1
+C144,GreenBhumi,Environmental Services,239,24806,0,Class-1
+C145,Apponward Technologies,Information Technology & Services,200,30,0,Class-1
+C146,Kalkine Media Australia,Education Magement ,5000,42703,0,Class-1
+C147,Appy Pie,Information Technology & Services ,500,15051,0,Class-1
+C148,Clarity,"Health, Wellness & Fitness",500,27366,0,Class-1
+C149,work from anywhere,"Health, Wellness & Fitness",1000,54517,0,Class-1
+C150,CUR8,Computer Software,50,18857,0,Class-1
+C151,Karyarth,Magement Consulting,50,15156,0,Class-1
+C152,Connplex,Entertainment,500,795,0,Class-1
+C153,Ascent BPO Services Pvt. Ltd.,Outsourcing/Offshoring,50,13050,0,Class-1
+C154,Suvidha Foundation (Suvidha Mahila Mandal),Non-profit Organization Magement,1000,49516,0,Class-1
+C155,Genpact,Information Technology & Services,10001,2032291,0,Class-1
+C156,Madify,Marketing & Advertising ,10,565,0,Class-1
+C157,Wipro,IT Services and IT Consulting,294536,6072255,2,Class-3
+C158,Third Eye Automation Pvt. Ltd,Marketing & Advertising ,50,96,0,Class-1
+C159,Part Time & Freelancing,Magement Consulting,500,17460,0,Class-1
+C160,Hitachi Vantara,Information Technology & Services,10000,497397,0,Class-1
+C161,Antino,Information Technology & Services,500,15139,0,Class-1
+C162,Square Yards,Real Estate,5000,207509,0,Class-1
+C163,Project C Foundation - We Care For Your Mental Health,Non-profit Organization Magement,200,6983,0,Class-1
+C164,Health & Wellness Industry,"Health, Wellness & Fitness ",200,20578,0,Class-1
+C165,PeakPals,"Health, Wellness & Fitness",51,4037,0,Class-1
+C166,Yokins Instruments Pvt Ltd,"Appliances, Electrical, and Electronics Manufacturing",9,93,0,Class-1
+C167,Kapable,E-learning ,50,12717,0,Class-1
+C168,MBA Hub,E-learning,10,26284,0,Class-1
+C169,Wildlife Trust of India,Non-profit Organization Magement,200,8403,0,Class-1
+C170,RicheMoi,IT Services and IT Consulting,279,5782,0,Class-1
+C171,Triller,Computer Software,500,45224,0,Class-1
+C172,Krash IT Services,IT Services and IT Consulting,8,1279,0,Class-1
+C173,The Gift Tree - Corporate Gift Hampers Co. ðŸŽðŸŽðŸŽ,Food and Beverage Services,2,72,0,Class-1
+C174,Million Minds Magement Services Ltd.,Staffing and Recruiting,236,4375,0,Class-1
+C175,NIRVODAY RECRUITMENT CELL,Information Technology & Services,50,1403,0,Class-1
+C176,Millioiretrack,Book and Periodical Publishing,0,139,0,Class-1
+C177,triedge.in,Internet,50,28630,0,Class-1
+C178,Government Project,Services,0,100,0,Class-1
+C179,MAXMOON SOLUTIONS Private Limited,Marketing & Advertising ,200,243,0,Class-1
+C180,Aashman Foundation,Non-profit Organization Magement,5000,111480,0,Class-1
+C181,MomkidcareÂ®,Hospital & Health Care ,50,13425,0,Class-1
+C182,Gartner,Information Service,10001,1416744,0,Class-1
+C183,igebra.ai,E-learning,200,4998,0,Class-1
+C184,SoluLab,Information Technology & Services,200,36810,0,Class-1
+C185,ONLINE WORK FROM HOME OPPORTUNITY,E-learning ,10001,6175,0,Class-1
+C186,Professionbeat,E-learning,5640,10,0,Class-1
+C187,digital networking,Marketing & Advertising,50,1198,0,Class-1
+C188,GrowthX By Trustvardi,Marketing & Advertising,10,256,0,Class-1
+C189,Teachwell Professiol Studies Institute Pvt Ltd,Education Administration Programs,53,449,0,Class-1
+C190,Support And Care Humanity Foundation,Non-profit Organizations,287,5586,0,Class-1
+C191,BAVCH EDUTECH,E-learning,82,7774,0,Class-1
+C192,"Work at Home Jobs - Online, Professiol, Remote & Digital Marketing Team.",Photography,10,520,0,Class-1
+C193,sharda services,Education Administration Programs,56,687,0,Class-1
+C194,Moneyplus Fincial Services Pvt. Ltd.,Fincial Services,200,614,0,Class-1
+C195,Part time work from home oppotunity,"Health, Wellness & Fitness",500,53430,0,Class-1
+C196,VAYUZ Technologies,Information Technology & Services,200,6589,0,Class-1
+C197,Mentorsity,E-learning,200,19523,0,Class-1
+C198,XP&D,Marketing & Advertising,200,2788,0,Class-1
+C199,sinzo,Information Technology & Services,200,16413,0,Class-1
+C200,Business Web Solutions,Information Technology & Services,10,34512,0,Class-1
+C201,Empowering Women$,"Health, Wellness & Fitness",10000,28164,0,Class-1
+C202,HSBC,Fincial Services,10001,3044675,2,Class-3
+C203,Amdocs,Telecommunications,10001,855528,0,Class-1
+C204,Luxoft,IT Services and IT Consulting,10001,764385,0,Class-1
+C205,Uniphore,IT Services and IT Consulting,1000,45066,0,Class-1
+C206,Western Union,Fincial Services,10000,234769,0,Class-1
+C207,Cyient,IT Services and IT Consulting,10001,264396,0,Class-1
+C208,Air Products India,Chemical Manufacturing,5000,30048,0,Class-1
+C209,HP,IT Services and IT Consulting,10001,5101101,2,Class-3
+C210,VIAVI Solutions,Telecommunications,5000,75719,0,Class-1
+C211,Hansen Technologies,Software Development,170,24385,0,Class-1
+C212,SmartServ,Software Development,200,14628,0,Class-1
+C213,Yudiz Solutions,IT Services and IT Consulting,1000,19488,0,Class-1
+C214,BMC Software,IT Services and IT Consulting,10000,239980,0,Class-1
+C215,Evolent Health,Hospitals and Health Care,5000,63236,0,Class-1
+C216,LTI - Larsen & Toubro Infotech,IT Services and IT Consulting,10001,1760160,0,Class-1
+C217,Zebra Technologies,IT Services and IT Consulting,10000,260894,0,Class-1
+C218,Intelerad Medical Systems,Medical Equipment Manufacturing,1000,64937,0,Class-1
+C219,pier Healthcare,IT Services and IT Consulting,500,18355,0,Class-1
+C220,Goken America,Design Services,500,6475,0,Class-1
+C221,ArBis & Associates,Software Development,44835,120,0,Class-1
+C222,TeamPlus Staffing Solution Pvt Ltd,Staffing and Recruiting,18568,3825,0,Class-1
+C223,Johnson Controls,Industrial Machinery Manufacturing,10001,1149075,0,Class-1
+C224,Worley,Professiol Services,10001,1001176,0,Class-1
+C225,IBM,IT Services and IT Consulting,10001,14405502,1,Class-2
+C226,JPMorgan Chase & Co.,Fincial Services,10001,3321410,2,Class-3
+C228,Volvo Group,Motor Vehicle Manufacturing,10000,64576,0,Class-1
+C229,Verint ,Information Technology & Services,10000,115749,0,Class-1
+C230,Tata Consultancy Services ,Information Technology & Services,10001,10607460,1,Class-2
+C231,GlobalLogic,Computer Software,10000,642397,0,Class-1
+C232,Flipkart,Computer Software,10000,2912399,2,Class-3
+C233,Luxoft ,Information Technology & Services,10000,764411,0,Class-1
+C234,Amazon,Computer Software,10000,27544868,3,Class-4
+C235,Dell Technologies ,Information Technology & Services,10000,4170269,2,Class-3
+C236,BYJU'S,E-learning,10000,1534350,0,Class-1
+C237,HealthSignz Technologies Pvt. Ltd,Information Technology & Services ,200,4853,0,Class-1
+C238,Pure Storage ,Information Technology & Services,5000,283462,0,Class-1
+C239,NewSpace Research and Technologies,Aviation & Aerospace,200,72113,0,Class-1
+C240,Accurate Bearing Components,Automotive,200,424,0,Class-1
+C241,Tech Mahindra,Information Technology & Services,10000,3640847,2,Class-3
+C242,UPL,Farming,10000,315529,0,Class-1
+C243,Fidelity Investments ,Fincial Services,10000,712805,0,Class-1
+C244,Bangalore School of Design ,Higher Education,50,1085,0,Class-1
+C245,Molex ,Electrical & Electronic Manufacturing ,10000,151957,0,Class-1
+C246,LTI - Larsen & Toubro Infotech ,Information Technology & Services,10000,1760206,0,Class-1
+C247,HCL Technologies ,Information Technology & Services,10000,4061543,2,Class-3
+C248,Growel Softech Ltd,Information Technology & Services,1000,20483,0,Class-1
+C249,Siemens Gamesa ,Renewables & Environment ,10000,636231,0,Class-1
+C250,SATS Ltd.,Airlines/Aviation,10000,96828,0,Class-1
+C251,Trane Technologies ,Mechanical Or Industrial Engineering,10000,77201,0,Class-1
+C252,Ola ,Computer Software,10000,845719,0,Class-1
+C253,Arm,Semiconductors,10000,339185,0,Class-1
+C254,Samya.ai,Computer Software,50,9872,0,Class-1
+C255,Zynga,Computer Games,5000,196183,0,Class-1
+C256,Cargill ,Food Production,10000,1953189,0,Class-1
+C257,EY,Accounting,10000,6654058,2,Class-3
+C258,Northern Trust Corporation,Fincial Services,10000,332083,0,Class-1
+C259,SUEZ,Environmental Services,10000,291967,0,Class-1
+C260,SBM uvata ,Oil & Energy ,1000,13587,0,Class-1
+C261,"Rubrik, Inc.",Computer Software,5000,148115,0,Class-1
+C262,Apple ,Consumer Electronics,10000,17263708,1,Class-2
+C265,ABB,Electrical & Electronic Manufacturing ,10000,2855753,2,Class-3
+C266,Google,Computer Software,10000,26114780,3,Class-4
+C267,CSB Bank Limited ,Banking,5000,36447,0,Class-1
+C268,Prodapt,Media Production,10000,45424,0,Class-1
+C269,Golden Opportunities ,Staffing & Recruiting,200,80745,0,Class-1
+C270,NTT DATA Services,Information Technology & Services,10000,446224,0,Class-1
+C271,Societe Generale Global Solution Centre ,Information Technology & Services,10000,224658,0,Class-1
+C272,Pickyourtrail ,"Leisure, Travel & Tourism",200,16636,0,Class-1
+C273,TNQ Technologies ,Publishing,5000,21819,0,Class-1
+C274,LIC ,Insurance,10000,98841,0,Class-1
+C275,Avaesa , Retail ,50,2269,0,Class-1
+C276,Procter & Gamble,Consumer Goods,10000,7040644,2,Class-3
+C277,Star Fing ,Fincial Services,500,3946,0,Class-1
+C278,Hilton ,Hospitality,10000,1660195,0,Class-1
+C279,Zenitus Technologies,Information Technology & Services,50,2057,0,Class-1
+C280,Red Group ,Real Estate,10,8672,0,Class-1
+C281,BNP Paribas,Banking,10000,1182856,0,Class-1
+C282,White Force Group ,Staffing & Recruiting,500,24258,0,Class-1
+C283,QuestWorkx,Human Resources ,10,2878,0,Class-1
+C284,ACZ Global Pvt Ltd,Human Resources ,50,5047,0,Class-1
+C285,Lennox India Technology Centre,Mechanical Or Industrial Engineering,1000,29271,0,Class-1
+C286,Onqanet Technologies Pvt. Ltd.,Information Technology & Services,200,814,0,Class-1
+C287,Zero Gravity Photography,Photography,500,2781,0,Class-1
